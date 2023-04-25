@@ -1,0 +1,15 @@
+A:\Git\REP2403\DZ.5\task_38\bin\Debug\net7.0\task_38.exe
+A:\Git\REP2403\DZ.5\task_38\bin\Debug\net7.0\task_38.deps.json
+A:\Git\REP2403\DZ.5\task_38\bin\Debug\net7.0\task_38.runtimeconfig.json
+A:\Git\REP2403\DZ.5\task_38\bin\Debug\net7.0\task_38.dll
+A:\Git\REP2403\DZ.5\task_38\bin\Debug\net7.0\task_38.pdb
+A:\Git\REP2403\DZ.5\task_38\obj\Debug\net7.0\task_38.csproj.AssemblyReference.cache
+A:\Git\REP2403\DZ.5\task_38\obj\Debug\net7.0\task_38.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\REP2403\DZ.5\task_38\obj\Debug\net7.0\task_38.AssemblyInfoInputs.cache
+A:\Git\REP2403\DZ.5\task_38\obj\Debug\net7.0\task_38.AssemblyInfo.cs
+A:\Git\REP2403\DZ.5\task_38\obj\Debug\net7.0\task_38.csproj.CoreCompileInputs.cache
+A:\Git\REP2403\DZ.5\task_38\obj\Debug\net7.0\task_38.dll
+A:\Git\REP2403\DZ.5\task_38\obj\Debug\net7.0\refint\task_38.dll
+A:\Git\REP2403\DZ.5\task_38\obj\Debug\net7.0\task_38.pdb
+A:\Git\REP2403\DZ.5\task_38\obj\Debug\net7.0\task_38.genruntimeconfig.cache
+A:\Git\REP2403\DZ.5\task_38\obj\Debug\net7.0\ref\task_38.dll
